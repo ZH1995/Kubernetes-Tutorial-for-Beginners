@@ -1,4 +1,4 @@
-# Kubernetes-Tutorial-for-Beginners
+# Scalable Microservices with Kubernetes
 kubernetes learning plan.
 
-Source video is https://www.youtube.com/watch?v=X48VuDVv0do.
+Source video is https://classroom.udacity.com/courses/ud615.
